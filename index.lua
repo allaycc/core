@@ -34,5 +34,12 @@ return {
       version = "0.1.0",
       description = "The allay package manager (so it can update itself)",
     },
+
+    -- The unicornpkg compat translator. Shipped by default in the bootstrap
+    -- but listed here so `allay update` can refresh it.
+    ["allay-unicornpkg-compat"] = {
+      version = "1.0.0",
+      description = "Translator for reading unicornpkg-format packages.",
+    },
   },
 }

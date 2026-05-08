@@ -1,6 +1,6 @@
 # allay-core
 
-The default source for [allay](https://github.com/alfaoz/allay). Ships allay's
+The default source for [allay](https://github.com/allaycc/allay). Ships allay's
 own runtime libraries (hash, httpkit, pathkit, log, argparse) and allay
 itself, all installable as packages.
 
@@ -37,8 +37,8 @@ It's already there. Run `allay source list` to confirm.
 ```
 
 The actual library source code lives in
-[lualibs](https://github.com/alfaoz/lualibs); allay's own source lives in
-[allay](https://github.com/alfaoz/allay). This repo only contains the
+[lualibs](https://github.com/allaycc/lualibs); allay's own source lives in
+[allay](https://github.com/allaycc/allay). This repo only contains the
 allay package definitions that point at those sources.
 
 ## License

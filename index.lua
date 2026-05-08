@@ -1,9 +1,9 @@
 return {
   spec = "allay/v1.0.0",
   format = "allay",
-  name = "alfaoz/allay-core",
+  name = "allaycc/core",
   description = "Default source for allay. Ships allay's own libraries and a small set of curated packages.",
-  homepage = "https://github.com/alfaoz/allay",
+  homepage = "https://github.com/allaycc/allay",
 
   packages = {
     -- allay's own runtime deps. Anyone using allay already has these,

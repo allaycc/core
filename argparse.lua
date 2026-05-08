@@ -5,7 +5,7 @@ return {
   author = "alfa",
   license = "MIT",
 
-  base_url = "https://raw.githubusercontent.com/alfaoz/lualibs/main",
+  base_url = "https://raw.githubusercontent.com/allaycc/lualibs/main",
 
   files = {
     lib = {

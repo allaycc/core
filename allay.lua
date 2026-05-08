@@ -19,9 +19,13 @@ return {
       ["lib/lockfile.lua"]                = "lockfile.lua",
       ["lib/resolver.lua"]                = "resolver.lua",
       ["lib/installer.lua"]               = "installer.lua",
+      ["lib/github.lua"]                  = "github.lua",
       ["lib/transport/init.lua"]          = "transport/init.lua",
       ["lib/transport/https.lua"]         = "transport/https.lua",
       ["lib/transport/disk.lua"]          = "transport/disk.lua",
+    },
+    raw = {
+      ["setup.lua"] = "/usr/allay/setup.lua",
     },
   },
   hashes = {},

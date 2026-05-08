@@ -28,6 +28,18 @@ return {
       version = "1.0.0",
       description = "Command-line argument parser",
     },
+    levenshtein = {
+      version = "1.0.0",
+      description = "Edit-distance for typo suggestions",
+    },
+    ui = {
+      version = "1.0.0",
+      description = "Terminal output helpers: color, confirm, with_spinner",
+    },
+    scout = {
+      version = "1.0.0",
+      description = "Walk a GitHub repo and synthesize an installable package",
+    },
 
     -- allay itself, so `allay update` can update allay.
     allay = {

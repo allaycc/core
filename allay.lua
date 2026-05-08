@@ -19,7 +19,6 @@ return {
       ["lib/lockfile.lua"]                = "lockfile.lua",
       ["lib/resolver.lua"]                = "resolver.lua",
       ["lib/installer.lua"]               = "installer.lua",
-      ["lib/github.lua"]                  = "github.lua",
       ["lib/translator.lua"]              = "translator.lua",
       ["lib/transport/init.lua"]          = "transport/init.lua",
       ["lib/transport/https.lua"]         = "transport/https.lua",
@@ -37,5 +36,8 @@ return {
     "pathkit",
     "log",
     "argparse",
+    "levenshtein",
+    "ui",
+    "scout",
   },
 }

@@ -20,6 +20,7 @@ return {
       ["lib/resolver.lua"]                = "resolver.lua",
       ["lib/installer.lua"]               = "installer.lua",
       ["lib/github.lua"]                  = "github.lua",
+      ["lib/translator.lua"]              = "translator.lua",
       ["lib/transport/init.lua"]          = "transport/init.lua",
       ["lib/transport/https.lua"]         = "transport/https.lua",
       ["lib/transport/disk.lua"]          = "transport/disk.lua",

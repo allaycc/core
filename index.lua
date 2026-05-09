@@ -40,6 +40,10 @@ return {
       version = "1.0.0",
       description = "Walk a GitHub repo and synthesize an installable package",
     },
+    observe = {
+      version = "1.0.0",
+      description = "Hook fs to track files written by a foreign installer",
+    },
 
     -- allay itself, so `allay update` can update allay.
     allay = {

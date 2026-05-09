@@ -39,5 +39,6 @@ return {
     "levenshtein",
     "ui",
     "scout",
+    "observe",
   },
 }
